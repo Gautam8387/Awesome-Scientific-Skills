@@ -111,6 +111,12 @@ We draw from two tiers of upstream repositories:
 | [yorkeccak/scientific-skills](https://github.com/yorkeccak/scientific-skills) | 21 | Natural-language scientific literature search skills with semantic retrieval across PubMed, arXiv, ChEMBL, DrugBank, and more |
 | [Weizhena/Deep-Research-skills](https://github.com/Weizhena/Deep-Research-skills) | 90 | Structured deep-research workflow skill (outline + investigation) with human-in-the-loop control for academic, technical, and market research |
 
+#### Bioinformatics & Genomics
+
+| Repository | Stars | Description |
+|---|---|---|
+| [NygenAnalytics/scarf/skills/scarf-single-cell](https://github.com/NygenAnalytics/scarf/tree/master/skills/scarf-single-cell) | 126 | Analyze single-cell RNA-seq at million-cell scale with Scarf: out-of-core Zarr stores on local disk or object storage, provenance-tracked immutable artifacts, audited QC, clustering, markers and donor-level comparisons |
+
 #### Neuroscience
 
 | Repository | Stars | Description |
